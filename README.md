@@ -4,12 +4,11 @@ Vers: Beta 1.0
 
 >Welcome to the 80's, in Source 2! Enjoy your Vacation in this tropical paradise.
 
-1. Features 
-  1. S2FM Support
-  1. Working Water
-  1. Working Ferris Wheel
-  1. Pre-Added Logic (if you can trigger it somehow)
-  1. Multiple Spawnpoints
+* S2FM Support
+*  Working Water
+*  Working Chunder Wheel
+*  Pre-Added Logic (if you can trigger it somehow)
+*  Multiple Spawnpoints
 
 
 
