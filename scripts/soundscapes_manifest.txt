@@ -1,0 +1,4 @@
+soundscaples_manifest
+{
+  "file"		"scripts/soundscapes/a31/soundscapes_gtavcs.txt"
+}

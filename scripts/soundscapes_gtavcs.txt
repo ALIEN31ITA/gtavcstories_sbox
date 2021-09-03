@@ -1,0 +1,11 @@
+"gta_vcstories.city"
+{
+	"playlooping"
+	{
+		"time"		"10,0"
+		"volume"	"0.8"
+		"pitch"		"100"
+		"soundlevel"	"SNDLVL_140dB"
+		"wave"		"a31/gta/vcs/ambient/city.vsnd"
+	}
+}
